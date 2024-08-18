@@ -1,5 +1,5 @@
 
-![SnacksSwiftUI](https://github.com/user-attachments/assets/a2e30701-159a-4b69-a87c-afb735ab05ba)
+![SnacksSwiftUI](https://github.com/user-attachments/assets/ba62f6fc-ad66-4991-b6f9-f2e3e2a6fee5)
 
 SnacksSwiftUI is a snack shopping application developed with SwiftUI. Users can filter and select snack products by category and add them to their cart.
 
